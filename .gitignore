@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.ipynb_checkpoints/
+
+# Quarto
+/.quarto/
+_site/
+*_files/
+*_cache/
+.jupyter_cache/
+**/*.quarto_ipynb
+
+# uv
+.venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+
+# Env secrets
+.env

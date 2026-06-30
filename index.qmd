@@ -1,0 +1,12 @@
+---
+title: "Physics-Informed ML for Engineering Design"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+title-block-banner: false
+---
+
+This is a series on Physics-Informed Neural Networks (PINNs) applied to engineering design problems, covering PDE-constrained learning, hard boundary condition enforcement, and benchmark comparisons.

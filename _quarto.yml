@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Physics-Informed ML for Engineering Design"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/k-yogendra/physics-informed-ml
+
+jupyter: physics-informed-ml
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    toc: true
